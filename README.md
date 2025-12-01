@@ -3,10 +3,10 @@
 This small project aims to create an easy-use animation handler for Roblox Studio projects. I made this project for personal usage to reduce lines in my systems and get an easy way to replace default animations, as well as organizing my animations under an easy folder structure.
 
 ## ✈Technologies
-`
-  * Lua/Luau
-  * Roblox Studio STLs
-`
+
+  * `Lua/Luau`
+  * `Roblox Studio STLs`
+
 ## 🌠Features 
 
   *  Easy and customizable folder system with automatic detection
